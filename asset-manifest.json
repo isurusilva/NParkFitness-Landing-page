@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ec947def.chunk.js",
+    "main.js.map": "/static/js/main.ec947def.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.39b86250.js",
+    "runtime-main.js.map": "/static/js/runtime-main.39b86250.js.map",
+    "static/js/2.4a3abbda.chunk.js": "/static/js/2.4a3abbda.chunk.js",
+    "static/js/2.4a3abbda.chunk.js.map": "/static/js/2.4a3abbda.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.4a3abbda.chunk.js.LICENSE.txt": "/static/js/2.4a3abbda.chunk.js.LICENSE.txt",
+    "static/media/NFIcon.c941585f.png": "/static/media/NFIcon.c941585f.png",
+    "static/media/gym-bg2.537c741b.jpg": "/static/media/gym-bg2.537c741b.jpg",
+    "static/media/rotating-card-bg-back.183088de.jpeg": "/static/media/rotating-card-bg-back.183088de.jpeg",
+    "static/media/rotating-card-bg-front.bdcdfadc.jpeg": "/static/media/rotating-card-bg-front.bdcdfadc.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39b86250.js",
+    "static/js/2.4a3abbda.chunk.js",
+    "static/js/main.ec947def.chunk.js"
+  ]
+}
